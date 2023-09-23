@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2448631a.css",
+    "main.js": "/static/js/main.e92397ab.js",
+    "static/media/user-account.svg": "/static/media/user-account.13478be6139d6df3dadc27b2cbede5c7.svg",
+    "static/media/logo.svg": "/static/media/logo.b01933fec26b8fade883599030b893b9.svg",
+    "static/media/KeazoNBOOKS.svg": "/static/media/KeazoNBOOKS.48c8468abbeffb2b3093dcbf5d6edb4c.svg",
+    "static/media/fluent_premium-person-20-regular.svg": "/static/media/fluent_premium-person-20-regular.d3ec5dec25d8c7955612a158ab2f2456.svg",
+    "static/media/ant-design_search-outlined.svg": "/static/media/ant-design_search-outlined.30851528e1020e23bf9a9950c92a8982.svg",
+    "static/media/bx_bx-book-heart.svg": "/static/media/bx_bx-book-heart.ceb36f2e96955368f0c6b0efd5956b3b.svg",
+    "static/media/ic_round-notifications-none.svg": "/static/media/ic_round-notifications-none.7c50674099947dc6f01b96bef86e9b38.svg",
+    "index.html": "/index.html",
+    "main.2448631a.css.map": "/static/css/main.2448631a.css.map",
+    "main.e92397ab.js.map": "/static/js/main.e92397ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2448631a.css",
+    "static/js/main.e92397ab.js"
+  ]
+}
